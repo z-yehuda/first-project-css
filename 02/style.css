@@ -21,12 +21,12 @@ img {
   width: 13%;
   height: 100%;
   display: flex;
-  background-color: rgba(0, 0, 255, 0.11);
+  /* background-color: rgba(0, 0, 255, 0.11); */
   position: absolute;
   left: 43%;
 }
 .wheel {
-  width: 100%;
+  width: 40%;
   display: flex;
   position: relative;
 }
